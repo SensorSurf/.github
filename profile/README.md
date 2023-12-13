@@ -1,9 +1,7 @@
-![SensorSurf logo](https://uploads-ssl.webflow.com/63f972c8b56d9ba74ace7c3f/63faa3e569cf8046d70717bd_Artboard%201.png)
+## Technician
 
-# You found us!
+Context switching is expensive. With Technician, you can stay focused on developing features rather than pesky bugs.
 
-SensorSurf believes in a future of mass automation, where humans are free from mundane labor to focus on creative tasks.
+Whenever a runtime exception appears in your logs, Technician automatically creates a pull request to repair the bug.
 
-We see robotics as a critical component of this future, so we're building tools to help reduce the complexity of developing robots.
-
-Check out the [SensorSurf Agent](https://github.com/SensorSurf/agent), which enables you to record data on events and offload over poor connections.
+We currently only support Java applications. Send us an email if you'd like to see a demo!
